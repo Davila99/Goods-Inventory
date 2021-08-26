@@ -30,7 +30,7 @@ import com.example.inventory.data.Item
 import com.example.inventory.databinding.FragmentAddItemBinding
 
 /**
- * Fragment to add or update an item in the Inventory database.
+ *Fragmento para agregar o actualizar un artículo en la base de datos de Inventario.
  */
 class AddItemFragment : Fragment() {
 
